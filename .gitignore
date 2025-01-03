@@ -1,0 +1,12 @@
+#ignoring database files
+*.sqlite3
+*.db
+
+#ignoring test data
+test_data/
+
+#ignoring media folder
+media/
+
+#ignoring population script
+population_script.py
